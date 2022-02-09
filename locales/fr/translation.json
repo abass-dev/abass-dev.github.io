@@ -13,7 +13,7 @@
         
         "about": {
             "title": "À-propos de moi",
-            "description": "Je suis développeur web et mobile passionné de l'internet et de la programmation depuis plus 6 ans. Pendant mon temps libre, j'écris des articles sur todaydevs et contribue à la communauté Open-Source"
+            "description": "Je suis un développeur Web, mobile et logiciel passionné par l'internet et la programmation depuis plus de 6 ans. Pendant mon temps libre, j'écris des articles sur todaydevs.com, partage des vidéos sur YouTube et contribue à la communauté Open-Source."
         },
         
         "cv": "MON CV",
@@ -24,6 +24,7 @@
             "about": "À-propos",
             "skill": "Compétence",
             "projects": "Projets",
+            "work": "Travail",
             "contact": "Contact"
         },
         
@@ -51,22 +52,22 @@
         
         "nigatedev": {
             "title": "NIGATEDEV FRAMEWORK",
-            "description": "Nigatedev est un framework PHP codé par Abass Ben Cheik & collaborateurs."
+            "description": "Nigatedev est un framework PHP permettant de gagner du temps, codé par Abass Ben Cheik et ses collaborateurs."
         },
         
         "todaydevs": {
             "title": "TODAYDEVS SITE INTERNET",
-            "description": "Avec Todaydevs, restez informé de la nouvelle technologie !"
+            "description": "Avec Todaydevs, restez informé de la nouvelle technologie ! Nous partageons tout sur les nouvelles technologies concernant le web, le mobile et les logiciels tout en essayant de rester à jour avec les nouvelles technologies."
         },
         
         "formbuilder": {
             "title": "FORM BUILDER",
-            "description": "Form builder"
+            "description": "Form builder est un projet Open-Source écrit en PHP et stylisé avec le css bootstrap par Abass Ben Cheik pour être facilement utilisé pour construire des formulaires html."
         },
         
         "portfolio": {
             "title": "PORTFOLIO",
-            "description": "Mon portfolio"
+            "description": "Mon portfolio (ReactJs)"
         }
     },
     
