@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.6506b7f6.chunk.css",
-    "main.js": "./static/js/main.13c98aa5.chunk.js",
-    "main.js.map": "./static/js/main.13c98aa5.chunk.js.map",
+    "main.js": "./static/js/main.9f873cc1.chunk.js",
+    "main.js.map": "./static/js/main.9f873cc1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c4f6bdd9.js",
     "runtime-main.js.map": "./static/js/runtime-main.c4f6bdd9.js.map",
     "static/css/2.1a33fe6a.chunk.css": "./static/css/2.1a33fe6a.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.6506b7f6.chunk.css.map": "./static/css/main.6506b7f6.chunk.css.map",
     "static/js/2.f88da209.chunk.js.LICENSE.txt": "./static/js/2.f88da209.chunk.js.LICENSE.txt",
     "static/media/abass_cv_fr.3c13167d.pdf": "./static/media/abass_cv_fr.3c13167d.pdf",
+    "static/media/abassdev_story1.b59d7a60.png": "./static/media/abassdev_story1.b59d7a60.png",
     "static/media/Home.css": "./static/media/bg.427e41bb.png",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/getFetch.cjs": "./static/media/getFetch.582d29c4.cjs",
@@ -30,6 +31,6 @@
     "static/css/2.1a33fe6a.chunk.css",
     "static/js/2.f88da209.chunk.js",
     "static/css/main.6506b7f6.chunk.css",
-    "static/js/main.13c98aa5.chunk.js"
+    "static/js/main.9f873cc1.chunk.js"
   ]
 }
