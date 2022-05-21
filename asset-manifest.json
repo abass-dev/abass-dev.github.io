@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.11266900.chunk.css",
-    "main.js": "./static/js/main.17b6a300.chunk.js",
-    "main.js.map": "./static/js/main.17b6a300.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.22c99ab3.js",
-    "runtime-main.js.map": "./static/js/runtime-main.22c99ab3.js.map",
+    "main.css": "./static/css/main.41fe3c98.chunk.css",
+    "main.js": "./static/js/main.f10b0642.chunk.js",
+    "main.js.map": "./static/js/main.f10b0642.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2bcdb477.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2bcdb477.js.map",
     "static/css/2.1a33fe6a.chunk.css": "./static/css/2.1a33fe6a.chunk.css",
-    "static/js/2.2055c3f0.chunk.js": "./static/js/2.2055c3f0.chunk.js",
-    "static/js/2.2055c3f0.chunk.js.map": "./static/js/2.2055c3f0.chunk.js.map",
-    "static/js/3.ed54e006.chunk.js": "./static/js/3.ed54e006.chunk.js",
-    "static/js/3.ed54e006.chunk.js.map": "./static/js/3.ed54e006.chunk.js.map",
+    "static/js/2.79fe49a2.chunk.js": "./static/js/2.79fe49a2.chunk.js",
+    "static/js/2.79fe49a2.chunk.js.map": "./static/js/2.79fe49a2.chunk.js.map",
+    "static/js/3.47637ae8.chunk.js": "./static/js/3.47637ae8.chunk.js",
+    "static/js/3.47637ae8.chunk.js.map": "./static/js/3.47637ae8.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.1a33fe6a.chunk.css.map": "./static/css/2.1a33fe6a.chunk.css.map",
-    "static/css/main.11266900.chunk.css.map": "./static/css/main.11266900.chunk.css.map",
-    "static/js/2.2055c3f0.chunk.js.LICENSE.txt": "./static/js/2.2055c3f0.chunk.js.LICENSE.txt",
+    "static/css/main.41fe3c98.chunk.css.map": "./static/css/main.41fe3c98.chunk.css.map",
+    "static/js/2.79fe49a2.chunk.js.LICENSE.txt": "./static/js/2.79fe49a2.chunk.js.LICENSE.txt",
     "static/media/abass_cv_fr.3c13167d.pdf": "./static/media/abass_cv_fr.3c13167d.pdf",
     "static/media/abassdev_story1.b59d7a60.png": "./static/media/abassdev_story1.b59d7a60.png",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
@@ -26,10 +26,10 @@
     "static/media/screenshot.03e9dfb8.jpg": "./static/media/screenshot.03e9dfb8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22c99ab3.js",
+    "static/js/runtime-main.2bcdb477.js",
     "static/css/2.1a33fe6a.chunk.css",
-    "static/js/2.2055c3f0.chunk.js",
-    "static/css/main.11266900.chunk.css",
-    "static/js/main.17b6a300.chunk.js"
+    "static/js/2.79fe49a2.chunk.js",
+    "static/css/main.41fe3c98.chunk.css",
+    "static/js/main.f10b0642.chunk.js"
   ]
 }
