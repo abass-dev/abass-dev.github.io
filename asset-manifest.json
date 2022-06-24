@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.b6d1edd4.chunk.css",
-    "main.js": "./static/js/main.8ee9baa5.chunk.js",
-    "main.js.map": "./static/js/main.8ee9baa5.chunk.js.map",
+    "main.js": "./static/js/main.1a2dc85b.chunk.js",
+    "main.js.map": "./static/js/main.1a2dc85b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb62b584.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb62b584.js.map",
     "static/css/2.1a33fe6a.chunk.css": "./static/css/2.1a33fe6a.chunk.css",
@@ -14,8 +14,8 @@
     "static/css/2.1a33fe6a.chunk.css.map": "./static/css/2.1a33fe6a.chunk.css.map",
     "static/css/main.b6d1edd4.chunk.css.map": "./static/css/main.b6d1edd4.chunk.css.map",
     "static/js/2.e5749e20.chunk.js.LICENSE.txt": "./static/js/2.e5749e20.chunk.js.LICENSE.txt",
+    "static/media/abass2022-07.e16f7231.jpg": "./static/media/abass2022-07.e16f7231.jpg",
     "static/media/abass_cv_fr.3c13167d.pdf": "./static/media/abass_cv_fr.3c13167d.pdf",
-    "static/media/abassdev2022-6.6470b5ce.jpg": "./static/media/abassdev2022-6.6470b5ce.jpg",
     "static/media/abassdev_story1.b59d7a60.png": "./static/media/abassdev_story1.b59d7a60.png",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/getFetch.cjs": "./static/media/getFetch.582d29c4.cjs",
@@ -31,6 +31,6 @@
     "static/css/2.1a33fe6a.chunk.css",
     "static/js/2.e5749e20.chunk.js",
     "static/css/main.b6d1edd4.chunk.css",
-    "static/js/main.8ee9baa5.chunk.js"
+    "static/js/main.1a2dc85b.chunk.js"
   ]
 }
