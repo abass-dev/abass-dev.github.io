@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/abassdev/public_html/
+    - /bin/cp -r * $DEPLOYPATH
+    
